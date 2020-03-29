@@ -17,6 +17,8 @@ Explore and study **decision trees** and **random forests**
     * Result
 * Random Decision Forests
   * Test sklearn randon decision forests
+    * Important Parameters
+    * Result
   * The Effect of the Number of Trees, Bootstrap, Number of Features Chosen on the Generalization Accuracy
     * Goal
     * Conclusion
